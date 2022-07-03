@@ -5,6 +5,9 @@ body {
   margin: 2%;
   margin-top: 0;
 }
+.fas, .fa{
+  transition: 0.3s;
+}
 .flex-centre {
   display: flex;
   justify-content: center;
